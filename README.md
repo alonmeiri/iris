@@ -37,4 +37,4 @@
 
 ## [Iris](https://github.com/vimeo/iris/) is the design system that powers Vimeo's web apps.
 
-Many components and tokens are viewable in [Storybook](https://vimeo.github.io/iris/sb/main). A documentation website with more comprehensive information, as well as pattern guidance beyond tokens and components is forthcoming.
+Many components and tokens are viewable in [Storybook](https://vimeo.github.io/iris/sb/main). A documentation website with more comprehensive information, as well as pattern guidance beyond tokens and components is forthcoming..
